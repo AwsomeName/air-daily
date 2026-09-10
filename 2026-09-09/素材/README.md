@@ -1,7 +1,14 @@
 # 首篇配图
 
-1. [01-首篇封面.png](01-首篇封面.png)：内置imagegen制作的3:4概念插画。主标题、第一篇及2026.09.09标识已目视核对；抽象镜片与城市表达产品愿景，不是硬件设计或真机HUD。图片于9月10日补写时生成。
-2. [02-小眸工作台真机截图.png](02-小眸工作台真机截图.png)：原样复制[9月9日横屏工作台](https://github.com/AwsomeName/air-app/blob/f23251b040f91a08b5674ae902c310f30ba2aedb/screenshots/AIR-main-pages-2026-09-09/23-%E6%A8%AA%E5%B1%8F%E5%B7%A5%E4%BD%9C%E5%8F%B0.png)。暗场、语音待机，不能作为视觉理解或语音成功的证据。
-3. [03-场景目录真机截图.png](03-场景目录真机截图.png)：原样复制[9月9日模式列表](https://github.com/AwsomeName/air-app/blob/f23251b040f91a08b5674ae902c310f30ba2aedb/screenshots/AIR-main-pages-2026-09-09/04-%E6%A8%A1%E5%BC%8F%E5%88%97%E8%A1%A8.png)。保留开发状态，页面“可用”不代表完整验收通过。
+1. [01-首篇封面.png](01-首篇封面.png)：内置imagegen制作的3:4概念插画，于9月10日补写时生成。
+2. [02-导航场景效果图.png](02-导航场景效果图.png)：9月8日导航日间设计效果图。明亮地图、深蓝指引卡和小眸，用于介绍导航方向；路线与时间是示例，不代表当前版本外观或路测结果。
+3. [03-城市漫游效果图.png](03-城市漫游效果图.png)：8月27日城市漫游概念效果图。街景、店铺卡与对话展示使用设想；店名、评分、价格、优惠和“眼镜已连接”均为设计内容，不代表实时数据、商家接入或设备验收。
 
-本组未使用9月10日新增功能截图。没有修改原始验收图片。封面完整提示词保存在[封面生成提示词](封面生成提示词.txt)，使用内置imagegen，未使用CLI。
+两张效果图原样复制，发布文案已明确标注图片类型。图二图三的旧真机截图已移出本发布组，原项目截图归档保持不变。
+
+来源（主项目固定提交）：
+
+- [导航效果图](https://github.com/AwsomeName/air-app/blob/f23251b040f91a08b5674ae902c310f30ba2aedb/screenshots/AIR-navigation-daylight-design-2026-09-08/approved-concept.png)
+- [城市漫游效果图](https://github.com/AwsomeName/air-app/blob/f23251b040f91a08b5674ae902c310f30ba2aedb/screenshots/AIR-city-roaming-mode-2026-08-27/01-workbench-concept.png)
+
+本轮使用既有效果图，未重新生成。封面使用内置imagegen，完整提示词见[封面生成提示词](封面生成提示词.txt)。
