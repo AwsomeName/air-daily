@@ -1,0 +1,84 @@
+{
+  "review_date": "2026-09-14",
+  "diary_date": "2026-09-13",
+  "main_project_head": "a1bd4164bff6230f8f3aa8945902b3af58094a8f",
+  "sources": [
+    {
+      "path": "docs/40-verify/realtime-translation-closure-implementation-2026-08-28.md",
+      "sha256": "30e04d7e5da7c7d3ab68641d12cfff4a6e1cd7b73978632119ee574334181526",
+      "identical_to_head": false
+    },
+    {
+      "path": "docs/40-verify/workbench-eye-layout-2026-09-13.md",
+      "sha256": "d83e5106b88f336be377c59b0d5cbc9059048b60a6e78967e7c804841d469977",
+      "identical_to_head": false
+    },
+    {
+      "path": "docs/40-verify/air-display-adaptation-2026-09-13.md",
+      "sha256": "c35734bb245c129b3f03948ae90f0c2f8265aa0b91f3047bfc1b8cb7417468eb",
+      "identical_to_head": false
+    },
+    {
+      "path": "docs/40-verify/samsung-usb-camera-focus-diagnosis-2026-09-13.md",
+      "sha256": "75c452a383b5b670c1cad42bb0e207c4846761529e28d881f40a68697d5a066d",
+      "identical_to_head": false
+    },
+    {
+      "path": "docs/40-verify/usb-focus-controls-2026-09-13.md",
+      "sha256": "1964c29efb114ee7cf88b28cb1e6fd6bbc4edca09c13985baf32dd88b0fd187e",
+      "identical_to_head": false
+    },
+    {
+      "path": "docs/40-verify/major-module-decoupling-2026-09-13.md",
+      "sha256": "747354eb2414acb2cdc164e36a89e0fc9ee26190050553d68ec515a1066bcca3",
+      "identical_to_head": false
+    },
+    {
+      "path": "docs/40-verify/startup-first-frame-2026-09-13.md",
+      "sha256": "d418ef923ebaf02120234a796a8156239ebd2ff0f476dbe834e0b44711b4a34c",
+      "identical_to_head": false
+    },
+    {
+      "path": "docs/40-verify/startup-run-state-crash-2026-09-13.md",
+      "sha256": "86575cf80a89718db8662c093fb009896f23876adcf8a38835aa4ba8913510dc",
+      "identical_to_head": false
+    },
+    {
+      "path": "docs/40-verify/diary-standalone-2026-09-13.md",
+      "sha256": "9c458d3f7074f0ce5ebb0352351897c335146d5df122e6ef49e3b7ab6deb2e78",
+      "identical_to_head": false
+    },
+    {
+      "path": "docs/40-verify/a7z-boot-maintenance-2026-09-13.md",
+      "sha256": "4671187218fff8270ce83e5062961fcb45e0addbed4d6bb3d840ba7a124de6f3",
+      "identical_to_head": false
+    },
+    {
+      "path": "docs/plan-a7z-development-sequence.md",
+      "sha256": "bd181e300e242fa23186b0e111802c7c2d0c9f06e5ff2af3acc720fa0459efc7",
+      "identical_to_head": false
+    },
+    {
+      "path": "xiaomou-body/docs/plan-first-prototype.md",
+      "sha256": "eecdcf4130e3a2de56243c3a9d21c2dd24e8432d324327cdb8997639bc62b199",
+      "identical_to_head": false
+    },
+    {
+      "path": "docs/design-assets/field-assistant/concept-landscape.png",
+      "sha256": "ab2163121c404f4c67664a82d76b0435daea5a198b4fd40434e7d93bba017202",
+      "identical_to_head": true,
+      "url": "https://github.com/AwsomeName/air-app/blob/a1bd4164bff6230f8f3aa8945902b3af58094a8f/docs/design-assets/field-assistant/concept-landscape.png"
+    },
+    {
+      "path": "docs/40-verify/screenshots/realtime-translation-audio-loop-2026-09-13/zipformer-full-production-mic-final.png",
+      "sha256": "0a452cd6334c2bc9bfd74c4df1e215573a03b310d8069eaadc74a723129203fc",
+      "identical_to_head": true,
+      "url": "https://github.com/AwsomeName/air-app/blob/a1bd4164bff6230f8f3aa8945902b3af58094a8f/docs/40-verify/screenshots/realtime-translation-audio-loop-2026-09-13/zipformer-full-production-mic-final.png"
+    },
+    {
+      "path": "docs/40-verify/evidence/usb-focus-2026-09-13/scene2-sweep-2125/focus-0256.png",
+      "sha256": "5dfcfb3e0af5da948c7e9e8b43b16ad76c873ea627be8fa72e763db4ffae21e1",
+      "identical_to_head": false
+    }
+  ]
+}
