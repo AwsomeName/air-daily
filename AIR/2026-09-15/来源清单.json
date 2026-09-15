@@ -1,0 +1,158 @@
+{
+  "diary_date": "2026-09-15",
+  "timezone": "Asia/Shanghai",
+  "prepared_date": "2026-09-16",
+  "development_day": 194,
+  "project_head_at_read": "59820fb6a204a852afa9dc7001c77b1a19307cb4",
+  "scope": "北京时间9月15日已有开发、交付与用户反馈记录；保留当日最终结论，不把9月16日工作计入",
+  "sources": [
+    {
+      "source_path": "docs/STATUS.yaml",
+      "sha256": "30b06e417decaa23ba1fa9b2814d4f2c96b94def91d8e91eba770f1acbf20393",
+      "bytes": 572629,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/spec-diary-upgrade.md",
+      "sha256": "55b263380cb52978cdc60c7fe8855612b37ca3184191f02f668bdcf0bf213759",
+      "bytes": 16909,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/plan-diary-illustration-execution.md",
+      "sha256": "b91170ae684284c64c94ad02de68ddeb96e814cae1243fd045c896523225151c",
+      "bytes": 8480,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/diary-upgrade-closeout-2026-09-15.md",
+      "sha256": "3436085991432e1fb4e039a560a7efc8e7817dd91e40c86d689ba3c304252286",
+      "bytes": 3187,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/diary-auto-toggle-direct-2026-09-15.md",
+      "sha256": "782806216deca0981d63cdc3817c2093b5e5bc4d42413e039d4730d5be984874",
+      "bytes": 1250,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/workbench-xiaomou-ptt-2026-09-15.md",
+      "sha256": "de5509767983bb4ebd5db41599c595d1e3f2f130901920f0a074a6971127584b",
+      "bytes": 2342,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/portrait-conversation-home-2026-09-15.md",
+      "sha256": "0927d1b036001bd0c357eabd5c365c80397f653a4cab39cd313616feedfd9321",
+      "bytes": 4341,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/settings-side-navigation-dedup-2026-09-15.md",
+      "sha256": "a055f53c5072a9f8ca640d96226f46c926d96663c1c6f15c78f3bd7854d08fdc",
+      "bytes": 2582,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/camera-preview-hold-2026-09-15.md",
+      "sha256": "5e0032c57f5cd4ecda4183530c30056bd42b6f5e652d81b36c1a2a623448607b",
+      "bytes": 4213,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/59820fb6a204a852afa9dc7001c77b1a19307cb4/docs/40-verify/camera-preview-hold-2026-09-15.md"
+    },
+    {
+      "source_path": "docs/40-verify/material-photo-pass-budget-fix-2026-09-15.md",
+      "sha256": "d46f291d7bbba3213dd8119817ddd9fdf181dd948a297f678da3040014a94f9d",
+      "bytes": 4716,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/photo-camera-resume-fix-2026-09-15.md",
+      "sha256": "c384453d80751d738b061852aa9350cc8350db1344d5cb51c3302d0721d38168",
+      "bytes": 6828,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/59820fb6a204a852afa9dc7001c77b1a19307cb4/docs/40-verify/photo-camera-resume-fix-2026-09-15.md"
+    },
+    {
+      "source_path": "docs/40-verify/workbench-tour-material-picker-2026-09-15.md",
+      "sha256": "0ef177746429cf47c48f4985af4df9dc6360782c1b4a86025ee68b6f4b2c7b25",
+      "bytes": 2438,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/indoor-tour-running-experience-2026-09-15.md",
+      "sha256": "f78d4d637d3e6ad7fa910710ca8d4ff1a548d5b936d87b90840f6888030e072d",
+      "bytes": 4514,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/realtime-translation-closure-implementation-2026-08-28.md",
+      "sha256": "40e301e290f0c75a1f1d3ea31148ab2675b14dddfe0bd44033169b68d7b66ece",
+      "bytes": 47142,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/workbench-all-modes-notice-2026-09-15.md",
+      "sha256": "74cd6e884c2c36f5c6e57050d40b542359102dc8c65c26c9c97014819cbe43ba",
+      "bytes": 3499,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/59820fb6a204a852afa9dc7001c77b1a19307cb4/docs/40-verify/workbench-all-modes-notice-2026-09-15.md"
+    },
+    {
+      "source_path": "docs/40-verify/file-preview-buttons-2026-09-15.md",
+      "sha256": "a03fd5b5ccbb0ffa5496cd9071e9ca2bcd3c61b985862e2eccc7aed025302077",
+      "bytes": 2862,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/59820fb6a204a852afa9dc7001c77b1a19307cb4/docs/40-verify/file-preview-buttons-2026-09-15.md"
+    },
+    {
+      "source_path": "docs/40-verify/desk-companion-shell-lifecycle-2026-09-11.md",
+      "sha256": "61ef6b9536218889d6b60dc4228dc338b0b88c17f383bf465ad3e1c31a011830",
+      "bytes": 13931,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD"
+    }
+  ],
+  "assets": [
+    {
+      "source_path": "docs/30-tasks/assets/diary-writing-and-illustration-2026-09-14/diary-reading-photo-ai-v1.png",
+      "sha256": "8af5417aacaea572d4354298eaee4b9bd7cb5664ce483c7721998025f00ccab8",
+      "bytes": 1927060,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/59820fb6a204a852afa9dc7001c77b1a19307cb4/docs/30-tasks/assets/diary-writing-and-illustration-2026-09-14/diary-reading-photo-ai-v1.png",
+      "saved_as": "素材/01-日记阅读效果图.png",
+      "kind": "9月14日产品效果图；示例内容，非实拍"
+    },
+    {
+      "source_path": "docs/design-assets/indoor-tour-running-2026-09-15/workbench-proposal.png",
+      "sha256": "1e401a6c8f5ed6974bfd5b637ee5dffac2e26ab2aca7773fd3ed33144727d0d5",
+      "bytes": 220392,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交到项目 HEAD",
+      "saved_as": "素材/02-室内导览提案图.png",
+      "kind": "9月15日设计提案；早期独立语音按钮已被后续交互替代"
+    },
+    {
+      "source_path": "docs/40-verify/evidence/camera-zoom-gpt5-2026-09-15/camera-pinch-wide-continued.png",
+      "sha256": "c0b38ea10b28330db0fabe9ec3b5ddfd49cead2b512d93bbf8d20eda1fadc92a",
+      "bytes": 1602734,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/59820fb6a204a852afa9dc7001c77b1a19307cb4/docs/40-verify/evidence/camera-zoom-gpt5-2026-09-15/camera-pinch-wide-continued.png",
+      "saved_as": "素材/03-当天缩放测试截图.png",
+      "kind": "9月15日10:16早期测试截图；非最终版本或连续缩放验收证据"
+    }
+  ]
+}
