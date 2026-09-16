@@ -1,0 +1,185 @@
+{
+  "diary_date": "2026-09-16",
+  "prepared_date": "2026-09-17",
+  "timezone": "Asia/Shanghai",
+  "development_day": 195,
+  "project_head_at_read": "37540b08d69267d6cfc48de4d2284a167d062e49",
+  "sources": [
+    {
+      "source_path": "docs/STATUS.yaml",
+      "sha256": "e5317f640ecf6772c28aec788ce76ffb158330ec8af02a037207cef264cd7d1b",
+      "bytes": 596232,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    },
+    {
+      "source_path": "docs/spec-home-quick-row.md",
+      "sha256": "4a71d841fb8132553691483a3dacb6b7e863ae1a29745d56812436285c1c058c",
+      "bytes": 1796,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/spec-home-quick-row.md"
+    },
+    {
+      "source_path": "docs/spec-home-memory-reminders.md",
+      "sha256": "5f3a99e5eca84dac3cb9c063dd493237a3898b14397d7631af4483b093cf7fed",
+      "bytes": 7328,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    },
+    {
+      "source_path": "docs/plan-phone-a7z-source-layout.md",
+      "sha256": "a7cbeee0d53423a86fe9f9bd5be99b8b4a2e85bd9be9e6b0d0c3ab36b5a863f8",
+      "bytes": 2746,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/home-memory-reminders-2026-09-16.md",
+      "sha256": "66bc85f2f58e733748302984b2ec08d313bc894576b6115017fa13cc91ab6222",
+      "bytes": 8070,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/40-verify/home-memory-reminders-2026-09-16.md"
+    },
+    {
+      "source_path": "docs/40-verify/home-quick-row-2026-09-16.md",
+      "sha256": "94e8183ceb234ba433910297629465154805b3892351a7276b9541b8bd6c6f63",
+      "bytes": 5337,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/40-verify/home-quick-row-2026-09-16.md"
+    },
+    {
+      "source_path": "docs/40-verify/home-cabin-motion-2026-09-16.md",
+      "sha256": "7f78df413ebcbbbc41390fdf665d7ef76006e7ed29eacee900dc3092bb630222",
+      "bytes": 11799,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/home-hair-motion-2026-09-16.md",
+      "sha256": "e1400f86d43929b7df13fdd3b347409dfc4bd2d935fe2d3f46c48eb421b8290d",
+      "bytes": 5992,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/air-display-archive-review-2026-09-16.md",
+      "sha256": "603c73f72931c73452f8dc7fd5c52c43deb0b1b3831567c268b101b34f38d960",
+      "bytes": 8887,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/40-verify/air-display-archive-review-2026-09-16.md"
+    },
+    {
+      "source_path": "docs/40-verify/workbench-layout-alignment-2026-09-16.md",
+      "sha256": "73b2769fbc7b16088212bcf2eb54f1d1176aa317b315ef0947f6cbeef50dd638",
+      "bytes": 6753,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/workbench-mode-single-tap-2026-09-16.md",
+      "sha256": "e06acf1f326d1bf1a29e2f687ec24e2184514c8a0dfb7c73fec97c5628c9d6b3",
+      "bytes": 1564,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/40-verify/workbench-mode-single-tap-2026-09-16.md"
+    },
+    {
+      "source_path": "docs/40-verify/workbench-kws-diagnosis-2026-09-16.md",
+      "sha256": "2c331a4adbf3e22401f4e0be09f0d46efc8e1762c2d418b1122047db0f26c571",
+      "bytes": 26288,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/40-verify/workbench-kws-diagnosis-2026-09-16.md"
+    },
+    {
+      "source_path": "docs/40-verify/realtime-translation-sentence-cards-2026-09-16.md",
+      "sha256": "dc183b9d596628a222981d9cebab83d1f07fb4cfd987d3bee7bb1970afe8e4ec",
+      "bytes": 7671,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/phone-a7z-source-layout-2026-09-16.md",
+      "sha256": "dd66780c506a85d6675516a2838447e7503a3fcb36f26dc1edcaa98666cf3863",
+      "bytes": 2473,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/usb-workbench-launch-2026-09-16.md",
+      "sha256": "18dc3b7f609de9b994c9e8d71389fb2c85e64e39cb1e1e79297a56aa344a89b4",
+      "bytes": 2408,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/40-verify/usb-workbench-launch-2026-09-16.md"
+    },
+    {
+      "source_path": "docs/40-verify/ar-posters-sidebar-2026-09-16.md",
+      "sha256": "aaa19d42bdfbccdf20804651f3ea9bc79ee5748a42f04a4fa3af817ff380da78",
+      "bytes": 1645,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/40-verify/ar-posters-sidebar-2026-09-16.md"
+    },
+    {
+      "source_path": "docs/40-verify/honor-model-access-install-2026-09-16.md",
+      "sha256": "82e9328510eda346b5056f170bbe0923d7655412c7dc75aa7a1d5a3f5705099a",
+      "bytes": 3508,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/diary-auto-toggle-direct-2026-09-15.md",
+      "sha256": "9eaf220061461ce2ea07e3cf5f0b56146eedcb754bf30edf9fbe8a9561cebeea",
+      "bytes": 1480,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/40-verify/diary-auto-toggle-direct-2026-09-15.md"
+    },
+    {
+      "source_path": "docs/30-tasks/a7z-system-cross-app-agent-discovery-2026-09-16.md",
+      "sha256": "acc2929b41eb644e2245068ba51d2ef37d0745a822515d1fba5b4cefeefde0e5",
+      "bytes": 4620,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    },
+    {
+      "source_path": "website/README.md",
+      "sha256": "217ee77ab44758c103269f5fe866c456500f8cfa2bb602f55c46a1df526835bc",
+      "bytes": 2076,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    },
+    {
+      "source_path": "promo-materials/README.md",
+      "sha256": "ae59182bede727faf4029c5a5502005b97231076ba6a75c26589ffc5062bf180",
+      "bytes": 4581,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照；不声称该内容已提交至HEAD"
+    }
+  ],
+  "assets": [
+    {
+      "source_path": "docs/design-assets/home-quick-row-2026-09-16/normal-and-input-v2.png",
+      "sha256": "bd7f84ff26ec1a2ce4347c9a89e595552ee188a6864b8dc788e9502c53e7e977",
+      "bytes": 1834739,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/design-assets/home-quick-row-2026-09-16/normal-and-input-v2.png",
+      "saved_as": "素材/01-观景舱首页效果图.png",
+      "kind": "设计效果图；键盘/人物构图示意，非手机截图"
+    },
+    {
+      "source_path": "docs/design-assets/home-memory-reminders-2026-09-16/memory-and-reminders.png",
+      "sha256": "d173b0a10b59e8b1c4bc48ff51e464a3a956aaa80b981bed46a3bcda9f3ebd05",
+      "bytes": 1230234,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/design-assets/home-memory-reminders-2026-09-16/memory-and-reminders.png",
+      "saved_as": "素材/02-记忆与提醒效果图.png",
+      "kind": "设计效果图；偏好、时间、提醒均为样例"
+    },
+    {
+      "source_path": "docs/design-assets/realtime-translation-sentence-cards-2026-09-16/sentence-cards-v2-official-xiaomou.png",
+      "sha256": "50e44bd119dc607b2cceccd97aa9456e2ca449ce75c850d94c92deda303adc5f",
+      "bytes": 1366229,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/37540b08d69267d6cfc48de4d2284a167d062e49/docs/design-assets/realtime-translation-sentence-cards-2026-09-16/sentence-cards-v2-official-xiaomou.png",
+      "saved_as": "素材/03-翻译句子卡片效果图.png",
+      "kind": "设计效果图；译文和状态为样例，首轮真机验收未通过"
+    }
+  ]
+}
