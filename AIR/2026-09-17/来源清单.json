@@ -1,0 +1,137 @@
+{
+  "diary_date": "2026-09-17",
+  "prepared_date": "2026-09-17",
+  "timezone": "Asia/Shanghai",
+  "development_day": 196,
+  "scope": "17日晚间截至本次整理已读取记录，含21:48模式面板交付；非全天结束承诺",
+  "project_head_at_read": "7258c5bda9f08ffcb7b1e1c779cbe51b2455ba2e",
+  "sources": [
+    {
+      "source_path": "docs/STATUS.yaml",
+      "sha256": "301b44b8c8ee2a94c27022c1ca314afd2406faba16e50c04c26cc5bace4cac56",
+      "bytes": 611834,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照，不声称已提交至HEAD"
+    },
+    {
+      "source_path": "docs/spec-workbench-mode-switch-panel.md",
+      "sha256": "f9ab9bf0c7682b2f90b6b70f5467b05b5f8da900488720ba482dbe0fa9b29919",
+      "bytes": 3276,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照，不声称已提交至HEAD"
+    },
+    {
+      "source_path": "docs/plan-workbench-mode-switch-panel.md",
+      "sha256": "b921f72eff92556ff158c42172f1178d9cb7b627ca6ce6f215824fd559976ca6",
+      "bytes": 1322,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照，不声称已提交至HEAD"
+    },
+    {
+      "source_path": "docs/spec-desk-companion-user-state.md",
+      "sha256": "8c754c53cd352b694c674b7ec66b8dc316918f6b2d69515f59ddf4f97ff07dcc",
+      "bytes": 17060,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照，不声称已提交至HEAD"
+    },
+    {
+      "source_path": "docs/plan-account-online-login-closure.md",
+      "sha256": "2467fb5ff79573ec690a8e2ca58746c30ec2c8c41c408396fb8d37ee736680e2",
+      "bytes": 5907,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照，不声称已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/workbench-mode-switch-2026-09-17.md",
+      "sha256": "9f614364e005e8c42f5f5786f81873cbabea87124704ca649044c32b89818d05",
+      "bytes": 5515,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照，不声称已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/desk-companion-user-state-2026-09-17.md",
+      "sha256": "103c91d08a21cbe353ca4be43e643e4d28699986b72d330cf31317d1453cb9a7",
+      "bytes": 19663,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照，不声称已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/indoor-tour-camera-lifecycle-2026-09-17.md",
+      "sha256": "1031bf93dd49921a2488e9b41ea247a5617b5ac12ae8eae24166b38e799a5eec",
+      "bytes": 6147,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/7258c5bda9f08ffcb7b1e1c779cbe51b2455ba2e/docs/40-verify/indoor-tour-camera-lifecycle-2026-09-17.md"
+    },
+    {
+      "source_path": "docs/40-verify/material-spot-delete-2026-09-17.md",
+      "sha256": "b302c8adf66322bd605c0cde17352158530f7ef2a659393b930545af40bf65bf",
+      "bytes": 4955,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/7258c5bda9f08ffcb7b1e1c779cbe51b2455ba2e/docs/40-verify/material-spot-delete-2026-09-17.md"
+    },
+    {
+      "source_path": "docs/40-verify/home-toolbox-2026-09-17.md",
+      "sha256": "03d8ee587e4c0f7d14135c291f55554d577db3b0718ab336ff096dd1c1997e16",
+      "bytes": 12012,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/7258c5bda9f08ffcb7b1e1c779cbe51b2455ba2e/docs/40-verify/home-toolbox-2026-09-17.md"
+    },
+    {
+      "source_path": "docs/40-verify/home-transient-status-2026-09-17.md",
+      "sha256": "808cd82576f37f4ba129614d175e3572668c0da76a335afb1ec02f37dd30a5cf",
+      "bytes": 4937,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照，不声称已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/account-online-login-closure-2026-09-17.md",
+      "sha256": "1a985cd5263ee923b6929cf90612d184b9671c85578ede053a58dbb9038729d2",
+      "bytes": 9467,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照，不声称已提交至HEAD"
+    },
+    {
+      "source_path": "docs/40-verify/realtime-translation-sentence-cards-2026-09-16.md",
+      "sha256": "aea21054ef16043350f8a7c4a0f31d95f4ac26823e433f8f357aa7b637fdf68a",
+      "bytes": 9279,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/7258c5bda9f08ffcb7b1e1c779cbe51b2455ba2e/docs/40-verify/realtime-translation-sentence-cards-2026-09-16.md"
+    },
+    {
+      "source_path": "docs/design-assets/home-transient-status-2026-09-17/README.md",
+      "sha256": "82d69a9edb15b0cc0e029d17ae6e677a76287ddf1e9c26e5e2d9053e036980c3",
+      "bytes": 2359,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/7258c5bda9f08ffcb7b1e1c779cbe51b2455ba2e/docs/design-assets/home-transient-status-2026-09-17/README.md"
+    }
+  ],
+  "assets": [
+    {
+      "source_path": "docs/design-assets/home-transient-status-2026-09-17/proposal-cabin-v2.png",
+      "sha256": "2771e236437af7f0f5c624d2d14f96d35db24dff95a3fc4caf0ffb6d40957c12",
+      "bytes": 1703676,
+      "matches_project_head": true,
+      "fixed_source_url": "https://github.com/AwsomeName/air-app/blob/7258c5bda9f08ffcb7b1e1c779cbe51b2455ba2e/docs/design-assets/home-transient-status-2026-09-17/proposal-cabin-v2.png",
+      "saved_as": "素材/01-太空舱提示效果图.png",
+      "kind": "设计效果图，非实机；天气与对话示例"
+    },
+    {
+      "source_path": "docs/40-verify/evidence/workbench-mode-switch-2026-09-17-compact/panel-680x352-1.0.png",
+      "sha256": "87c8a7af186fe5c80d2d98218419bbb403dbfbf4baf56ffbb6d0d2b932e80d0d",
+      "bytes": 33903,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照，不声称已提交至HEAD",
+      "saved_as": "素材/02-紧凑模式面板本地渲染.png",
+      "kind": "生产Android布局本地渲染；12项测试样本，不等同全部模式开放"
+    },
+    {
+      "source_path": "docs/40-verify/evidence/companion-bottom-2026-09-17/local-page.png",
+      "sha256": "130727801d623452dd7ab9d9f8648c736c8a86cd439d4a9cc931807ffe020dfb",
+      "bytes": 309681,
+      "matches_project_head": false,
+      "source_state": "本地工作区快照，不声称已提交至HEAD",
+      "saved_as": "素材/03-陪伴页面本地渲染.png",
+      "kind": "生产Android布局本地渲染；日期、倒计时、环境和心情均为夹具"
+    }
+  ]
+}
